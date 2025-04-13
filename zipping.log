@@ -1,0 +1,686 @@
+2025-04-13 14:21:12,816 - INFO - Starting to zip C:\Users\nsika\AppData\Local\Temp\tmpzifau842\test1
+2025-04-13 14:21:13,295 - INFO - Added large.txt to zip
+2025-04-13 14:21:13,382 - INFO - Added medium.txt to zip
+2025-04-13 14:21:13,458 - INFO - Added small.txt to zip
+2025-04-13 14:21:13,534 - INFO - Added subdir\subfile.txt to zip
+2025-04-13 14:21:13,537 - INFO - Successfully created zip file: C:\Users\nsika\AppData\Local\Temp\tmpzifau842\test1.zip
+2025-04-13 14:21:13,537 - INFO - Starting integrity verification
+2025-04-13 14:21:13,881 - ERROR - Error verifying subdir\subfile.txt: "There is no item named 'subdir\\\\subfile.txt' in the archive"
+2025-04-13 14:21:13,882 - ERROR - Integrity verification failed
+2025-04-13 14:21:14,748 - INFO - Starting to zip C:\Users\nsika\AppData\Local\Temp\tmpzifau842\test2
+2025-04-13 14:21:15,164 - INFO - Added 10mb.txt to zip
+2025-04-13 14:21:15,166 - INFO - Successfully created zip file: C:\Users\nsika\AppData\Local\Temp\tmpzifau842\test2.zip
+2025-04-13 14:21:15,166 - INFO - Starting integrity verification
+2025-04-13 14:21:15,557 - INFO - Integrity verification successful
+2025-04-13 14:21:16,019 - INFO - Starting to zip C:\Users\nsika\AppData\Local\Temp\tmpzifau842\test3
+2025-04-13 14:21:16,149 - INFO - Added level1\level2\level3\deep.txt to zip
+2025-04-13 14:21:16,152 - INFO - Successfully created zip file: C:\Users\nsika\AppData\Local\Temp\tmpzifau842\test3.zip
+2025-04-13 14:21:16,152 - INFO - Starting integrity verification
+2025-04-13 14:21:16,200 - ERROR - Error verifying level1\level2\level3\deep.txt: "There is no item named 'level1\\\\level2\\\\level3\\\\deep.txt' in the archive"
+2025-04-13 14:21:16,200 - ERROR - Integrity verification failed
+2025-04-13 14:21:16,580 - INFO - Starting to zip C:\Users\nsika\AppData\Local\Temp\tmpzifau842\test4
+2025-04-13 14:21:16,717 - INFO - Added large.txt to zip
+2025-04-13 14:21:16,796 - INFO - Added medium.txt to zip
+2025-04-13 14:21:16,853 - INFO - Added small.txt to zip
+2025-04-13 14:21:16,900 - INFO - Added subdir\subfile.txt to zip
+2025-04-13 14:21:16,901 - INFO - Successfully created zip file: C:\Users\nsika\AppData\Local\Temp\tmpzifau842\test4.zip
+2025-04-13 14:21:16,901 - INFO - Starting integrity verification
+2025-04-13 14:21:17,130 - ERROR - Error verifying subdir\subfile.txt: "There is no item named 'subdir\\\\subfile.txt' in the archive"
+2025-04-13 14:21:17,130 - ERROR - Integrity verification failed
+2025-04-13 14:23:36,181 - INFO - Starting to zip C:\Users\nsika\AppData\Local\Temp\tmpdqr0d80z\test1
+2025-04-13 14:23:36,591 - INFO - Added large.txt to zip
+2025-04-13 14:23:36,715 - INFO - Added medium.txt to zip
+2025-04-13 14:23:36,761 - INFO - Added small.txt to zip
+2025-04-13 14:23:36,818 - INFO - Added subdir/subfile.txt to zip
+2025-04-13 14:23:36,831 - INFO - Successfully created zip file: C:\Users\nsika\AppData\Local\Temp\tmpdqr0d80z\test1.zip
+2025-04-13 14:23:36,831 - INFO - Starting integrity verification
+2025-04-13 14:23:37,354 - INFO - Integrity verification successful
+2025-04-13 14:23:37,769 - INFO - Starting to zip C:\Users\nsika\AppData\Local\Temp\tmpdqr0d80z\test2
+2025-04-13 14:23:38,037 - INFO - Added 10mb.txt to zip
+2025-04-13 14:23:38,041 - INFO - Successfully created zip file: C:\Users\nsika\AppData\Local\Temp\tmpdqr0d80z\test2.zip
+2025-04-13 14:23:38,041 - INFO - Starting integrity verification
+2025-04-13 14:23:38,245 - INFO - Integrity verification successful
+2025-04-13 14:23:38,681 - INFO - Starting to zip C:\Users\nsika\AppData\Local\Temp\tmpdqr0d80z\test3
+2025-04-13 14:23:38,798 - INFO - Added level1/level2/level3/deep.txt to zip
+2025-04-13 14:23:38,801 - INFO - Successfully created zip file: C:\Users\nsika\AppData\Local\Temp\tmpdqr0d80z\test3.zip
+2025-04-13 14:23:38,801 - INFO - Starting integrity verification
+2025-04-13 14:23:38,902 - INFO - Integrity verification successful
+2025-04-13 14:23:39,372 - INFO - Starting to zip C:\Users\nsika\AppData\Local\Temp\tmpdqr0d80z\test4
+2025-04-13 14:23:39,509 - INFO - Added large.txt to zip
+2025-04-13 14:23:39,599 - INFO - Added medium.txt to zip
+2025-04-13 14:23:39,669 - INFO - Added small.txt to zip
+2025-04-13 14:23:39,745 - INFO - Added subdir/subfile.txt to zip
+2025-04-13 14:23:39,748 - INFO - Successfully created zip file: C:\Users\nsika\AppData\Local\Temp\tmpdqr0d80z\test4.zip
+2025-04-13 14:23:39,748 - INFO - Starting integrity verification
+2025-04-13 14:23:40,066 - INFO - Integrity verification successful
+2025-04-13 14:44:46,528 - INFO - Starting to zip C:\Data_science_course
+2025-04-13 14:44:47,661 - INFO - Added FAQ_The_Data_Science_Course.pdf to zip
+2025-04-13 14:44:47,812 - INFO - Added Part_1_Intro_to_Data_and_Data_Science/S2_L6/365-DataScience-Diagram.pdf to zip
+2025-04-13 14:44:47,920 - INFO - Added Part_1_Intro_to_Data_and_Data_Science/S2_L7/365-DataScience-Diagram.pdf to zip
+2025-04-13 14:44:48,318 - INFO - Added Part_1_Intro_to_Data_and_Data_Science/S2_L7/365-DataScience.png to zip
+2025-04-13 14:44:48,491 - INFO - Added Part_1_Intro_to_Data_and_Data_Science/S2_L8/365-DataScience.png to zip
+2025-04-13 14:44:48,637 - INFO - Added Part_2_Probability/S10_29/Course Notes - Combinatorics.pdf to zip
+2025-04-13 14:44:48,788 - INFO - Added Part_2_Probability/S10_L34/Combinations With Repetition.pdf to zip
+2025-04-13 14:44:49,072 - INFO - Added Part_2_Probability/S10_L35/Symmetry Explained.pdf to zip
+2025-04-13 14:44:49,263 - INFO - Added Part_2_Probability/S10_L39/Additional Exercises Combinatorics Solutions.pdf to zip
+2025-04-13 14:44:49,366 - INFO - Added Part_2_Probability/S10_L39/Additional Exercises Combinatorics.pdf to zip
+2025-04-13 14:44:49,555 - INFO - Added Part_2_Probability/S11_L40/Course Notes - Bayesian Inference.pdf to zip
+2025-04-13 14:44:50,249 - INFO - Added Part_2_Probability/S12_L51/CDS_2017-2018 Hamilton.pdf to zip
+2025-04-13 14:44:50,418 - INFO - Added Part_2_Probability/S12_L51/Course Notes - Probability Distributions.pdf to zip
+2025-04-13 14:44:50,705 - INFO - Added Part_2_Probability/S12_L52/Course Notes - Probability Distributions.pdf to zip
+2025-04-13 14:44:50,817 - INFO - Added Part_2_Probability/S12_L58/Poisson - Expected Value and Variance.pdf to zip
+2025-04-13 14:44:50,917 - INFO - Added Part_2_Probability/S12_L59/Solving Integrals.pdf to zip
+2025-04-13 14:44:51,131 - INFO - Added Part_2_Probability/S12_L60/Normal Distribution - Expected Value and Variance.pdf to zip
+2025-04-13 14:44:51,251 - INFO - Added Part_2_Probability/S12_L66/Customers_Membership (post).xlsx to zip
+2025-04-13 14:44:51,346 - INFO - Added Part_2_Probability/S12_L66/Customers_Membership.xlsx to zip
+2025-04-13 14:44:51,439 - INFO - Added Part_2_Probability/S12_L66/Daily Views (post).xlsx to zip
+2025-04-13 14:44:51,527 - INFO - Added Part_2_Probability/S12_L66/Daily Views.xlsx to zip
+2025-04-13 14:44:51,953 - INFO - Added Part_2_Probability/S12_L66/FIFA19 (post).csv to zip
+2025-04-13 14:44:52,261 - INFO - Added Part_2_Probability/S12_L66/FIFA19.csv to zip
+2025-04-13 14:44:53,250 - INFO - Added Part_2_Probability/S9_L25/Course Notes - Basic Probability.pdf to zip
+2025-04-13 14:44:54,842 - INFO - Added Part_3_Statistics/S14_L71/Course-notes-descriptive-statistics.pdf to zip
+2025-04-13 14:44:54,944 - INFO - Added Part_3_Statistics/S14_L71/Glossary.xlsx to zip
+2025-04-13 14:44:55,923 - INFO - Added Part_3_Statistics/S15_L72/Course-notes-descriptive-statistics.pdf to zip
+2025-04-13 14:44:56,068 - INFO - Added Part_3_Statistics/S15_L73/2.3.Categorical-variables.Visualization-techniques-lesson.xlsx to zip
+2025-04-13 14:44:56,202 - INFO - Added Part_3_Statistics/S15_L74/2.3.Categorical-variables.Visualization-techniques-exercise-solution.xlsx to zip
+2025-04-13 14:44:56,358 - INFO - Added Part_3_Statistics/S15_L74/2.3.Categorical-variables.Visualization-techniques-exercise.xlsx to zip
+2025-04-13 14:44:56,455 - INFO - Added Part_3_Statistics/S15_L75/2.4.Numerical-variables.Frequency-distribution-table-lesson.xlsx to zip
+2025-04-13 14:44:56,564 - INFO - Added Part_3_Statistics/S15_L76/2.4.Numerical-variables.Frequency-distribution-table-exercise-solution.xlsx to zip
+2025-04-13 14:44:56,680 - INFO - Added Part_3_Statistics/S15_L76/2.4.Numerical-variables.Frequency-distribution-table-exercise.xlsx to zip
+2025-04-13 14:44:56,779 - INFO - Added Part_3_Statistics/S15_L77/2.5.The-Histogram-lesson.xlsx to zip
+2025-04-13 14:44:56,892 - INFO - Added Part_3_Statistics/S15_L78/2.5.The-Histogram-exercise-solution.xlsx to zip
+2025-04-13 14:44:56,977 - INFO - Added Part_3_Statistics/S15_L78/2.5.The-Histogram-exercise.xlsx to zip
+2025-04-13 14:44:57,066 - INFO - Added Part_3_Statistics/S15_L79/2.6.Cross-table-and-scatter-plot.xlsx to zip
+2025-04-13 14:44:57,348 - INFO - Added Part_3_Statistics/S15_L80/2.6.Cross-table-and-scatter-plot-exercise-solution.xlsx to zip
+2025-04-13 14:44:57,472 - INFO - Added Part_3_Statistics/S15_L80/2.6.Cross-table-and-scatter-plot-exercise.xlsx to zip
+2025-04-13 14:44:57,582 - INFO - Added Part_3_Statistics/S15_L81/2.7.Mean-median-and-mode-lesson.xlsx to zip
+2025-04-13 14:44:57,674 - INFO - Added Part_3_Statistics/S15_L82/2.7.Mean-median-and-mode-exercise-solution.xlsx to zip
+2025-04-13 14:44:57,782 - INFO - Added Part_3_Statistics/S15_L82/2.7.Mean-median-and-mode-exercise.xlsx to zip
+2025-04-13 14:44:57,891 - INFO - Added Part_3_Statistics/S15_L83/2.8.Skewness-lesson.xlsx to zip
+2025-04-13 14:44:57,992 - INFO - Added Part_3_Statistics/S15_L84/2.8.Skewness-exercise-solution.xlsx to zip
+2025-04-13 14:44:58,199 - INFO - Added Part_3_Statistics/S15_L84/2.8.Skewness-exercise.xlsx to zip
+2025-04-13 14:44:58,299 - INFO - Added Part_3_Statistics/S15_L85/2.9.Variance-lesson.xlsx to zip
+2025-04-13 14:44:58,386 - INFO - Added Part_3_Statistics/S15_L86/2.9.Variance-exercise-solution.xlsx to zip
+2025-04-13 14:44:58,544 - INFO - Added Part_3_Statistics/S15_L86/2.9.Variance-exercise.xlsx to zip
+2025-04-13 14:44:58,729 - INFO - Added Part_3_Statistics/S15_L87/2.10.Standard-deviation-and-coefficient-of-variation-lesson.xlsx to zip
+2025-04-13 14:44:58,827 - INFO - Added Part_3_Statistics/S15_L88/2.10.Standard-deviation-and-coefficient-of-variation-exercise-solution.xlsx to zip
+2025-04-13 14:44:58,952 - INFO - Added Part_3_Statistics/S15_L88/2.10.Standard-deviation-and-coefficient-of-variation-exercise.xlsx to zip
+2025-04-13 14:44:59,059 - INFO - Added Part_3_Statistics/S15_L89/2.11.Covariance-lesson.xlsx to zip
+2025-04-13 14:44:59,157 - INFO - Added Part_3_Statistics/S15_L90/2.11.Covariance-exercise-solution.xlsx to zip
+2025-04-13 14:44:59,252 - INFO - Added Part_3_Statistics/S15_L90/2.11.Covariance-exercise.xlsx to zip
+2025-04-13 14:44:59,352 - INFO - Added Part_3_Statistics/S15_L92/2.12.Correlation-exercise-solution.xlsx to zip
+2025-04-13 14:44:59,436 - INFO - Added Part_3_Statistics/S15_L92/2.12.Correlation-exercise.xlsx to zip
+2025-04-13 14:44:59,557 - INFO - Added Part_3_Statistics/S16_L93/2.13.Practical-example.Descriptive-statistics-lesson.xlsx to zip
+2025-04-13 14:44:59,675 - INFO - Added Part_3_Statistics/S16_L94/2.13.Practical-example.Descriptive-statistics-exercise-solution.xlsx to zip
+2025-04-13 14:44:59,846 - INFO - Added Part_3_Statistics/S16_L94/2.13.Practical-example.Descriptive-statistics-exercise.xlsx to zip
+2025-04-13 14:45:00,703 - INFO - Added Part_3_Statistics/S17_L95/Course-notes-inferential-statistics.pdf to zip
+2025-04-13 14:45:00,778 - INFO - Added Part_3_Statistics/S17_L96/3.2.What-is-a-distribution-lesson.xlsx to zip
+2025-04-13 14:45:01,651 - INFO - Added Part_3_Statistics/S17_L96/Course-notes-inferential-statistics.pdf to zip
+2025-04-13 14:45:01,764 - INFO - Added Part_3_Statistics/S17_L98/3.4.Standard-normal-distribution-lesson.xlsx to zip
+2025-04-13 14:45:01,854 - INFO - Added Part_3_Statistics/S17_L99/3.4.Standard-normal-distribution-exercise-solution.xlsx to zip
+2025-04-13 14:45:01,948 - INFO - Added Part_3_Statistics/S17_L99/3.4.Standard-normal-distribution-exercise.xlsx to zip
+2025-04-13 14:45:02,046 - INFO - Added Part_3_Statistics/S18_L104/3.9.Population-variance-known-z-score-lesson.xlsx to zip
+2025-04-13 14:45:02,139 - INFO - Added Part_3_Statistics/S18_L104/3.9.The-z-table.xlsx to zip
+2025-04-13 14:45:02,264 - INFO - Added Part_3_Statistics/S18_L105/3.9.Population-variance-known-z-score-exercise-solution.xlsx to zip
+2025-04-13 14:45:02,355 - INFO - Added Part_3_Statistics/S18_L105/3.9.Population-variance-known-z-score-exercise.xlsx to zip
+2025-04-13 14:45:02,440 - INFO - Added Part_3_Statistics/S18_L105/3.9.The-z-table.xlsx to zip
+2025-04-13 14:45:02,542 - INFO - Added Part_3_Statistics/S18_L108/3.11.Population-variance-unknown-t-score-lesson.xlsx to zip
+2025-04-13 14:45:02,639 - INFO - Added Part_3_Statistics/S18_L108/3.11.The-t-table.xlsx to zip
+2025-04-13 14:45:02,806 - INFO - Added Part_3_Statistics/S18_L109/3.11.Population-variance-unknown-t-score-exercise-solution.xlsx to zip
+2025-04-13 14:45:02,903 - INFO - Added Part_3_Statistics/S18_L109/3.11.Population-variance-unknown-t-score-exercise.xlsx to zip
+2025-04-13 14:45:03,118 - INFO - Added Part_3_Statistics/S18_L111/3.13.Confidence-intervals.Two-means.Dependent-samples-lesson.xlsx to zip
+2025-04-13 14:45:03,232 - INFO - Added Part_3_Statistics/S18_L111/COALESCE-Preamble.pdf to zip
+2025-04-13 14:45:03,340 - INFO - Added Part_3_Statistics/S18_L112/3.13.Confidence-intervals.Two-means.Dependent-samples-exercise-solution.xlsx to zip
+2025-04-13 14:45:03,435 - INFO - Added Part_3_Statistics/S18_L112/3.13.Confidence-intervals.Two-means.Dependent-samples-exercise.xlsx to zip
+2025-04-13 14:45:03,584 - INFO - Added Part_3_Statistics/S18_L113/3.14.Confidence-intervals.Two-means.Independent-samples-Part-1-lesson.xlsx to zip
+2025-04-13 14:45:03,739 - INFO - Added Part_3_Statistics/S18_L114/3.14.Confidence-intervals.Two-means.Independent-samples-Part-1-exercise-solution.xlsx to zip
+2025-04-13 14:45:03,879 - INFO - Added Part_3_Statistics/S18_L114/3.14.Confidence-intervals.Two-means.Independent-samples-Part-1-exercise.xlsx to zip
+2025-04-13 14:45:03,992 - INFO - Added Part_3_Statistics/S18_L115/3.15.Confidence-intervals.Two-means.Independent-samples-Part-2-lesson.xlsx to zip
+2025-04-13 14:45:04,109 - INFO - Added Part_3_Statistics/S18_L116/3.15.Confidence-intervals.Two-means.Independent-samples-Part-2-exercise-solution.xlsx to zip
+2025-04-13 14:45:04,242 - INFO - Added Part_3_Statistics/S18_L116/3.15.Confidence-intervals.Two-means.Independent-samples-Part-2-exercise.xlsx to zip
+2025-04-13 14:45:04,480 - INFO - Added Part_3_Statistics/S19_L118/3.17.Practical-example.Confidence-intervals-lesson.xlsx to zip
+2025-04-13 14:45:04,676 - INFO - Added Part_3_Statistics/S19_L119/3.17.Practical-example.Confidence-intervals-exercise-solution.xlsx to zip
+2025-04-13 14:45:04,899 - INFO - Added Part_3_Statistics/S19_L119/3.17.Practical-example.Confidence-intervals-exercise.xlsx to zip
+2025-04-13 14:45:05,923 - INFO - Added Part_3_Statistics/S20_L120/Course-notes-hypothesis-testing.pdf to zip
+2025-04-13 14:45:06,575 - INFO - Added Part_3_Statistics/S20_L122/Course-notes-hypothesis-testing.pdf to zip
+2025-04-13 14:45:06,794 - INFO - Added Part_3_Statistics/S20_L124/4.4.Test-for-the-mean.Population-variance-known-lesson.xlsx to zip
+2025-04-13 14:45:06,957 - INFO - Added Part_3_Statistics/S20_L125/4.4.Test-for-the-mean.Population-variance-known-exercise-solution.xlsx to zip
+2025-04-13 14:45:07,070 - INFO - Added Part_3_Statistics/S20_L125/4.4.Test-for-the-mean.Population-variance-known-exercise.xlsx to zip
+2025-04-13 14:45:07,232 - INFO - Added Part_3_Statistics/S20_L126/Online-p-value-calculator.pdf to zip
+2025-04-13 14:45:07,363 - INFO - Added Part_3_Statistics/S20_L127/4.6.Test-for-the-mean.Population-variance-unknown-lesson.xlsx to zip
+2025-04-13 14:45:07,450 - INFO - Added Part_3_Statistics/S20_L128/4.6.Test-for-the-mean.Population-variance-unknown-exercise-solution.xlsx to zip
+2025-04-13 14:45:07,547 - INFO - Added Part_3_Statistics/S20_L128/4.6.Test-for-the-mean.Population-variance-unknown-exercise.xlsx to zip
+2025-04-13 14:45:07,658 - INFO - Added Part_3_Statistics/S20_L129/4.7.Test-for-the-mean.Dependent-samples-lesson.xlsx to zip
+2025-04-13 14:45:07,757 - INFO - Added Part_3_Statistics/S20_L130/4.7.Test-for-the-mean.Dependent-samples-exercise-solution.xlsx to zip
+2025-04-13 14:45:07,881 - INFO - Added Part_3_Statistics/S20_L130/4.7.Test-for-the-mean.Dependent-samples-exercise.xlsx to zip
+2025-04-13 14:45:08,110 - INFO - Added Part_3_Statistics/S20_L131/4.8.Test-for-the-mean.Independent-samples-Part-1-lesson.xlsx to zip
+2025-04-13 14:45:08,357 - INFO - Added Part_3_Statistics/S20_L132/4.8.Test-for-the-mean.Independent-samples-Part-1-exercise-solution.xlsx to zip
+2025-04-13 14:45:08,518 - INFO - Added Part_3_Statistics/S20_L132/4.8.Test-for-the-mean.Independent-samples-Part-1-exercise.xlsx to zip
+2025-04-13 14:45:08,609 - INFO - Added Part_3_Statistics/S20_L133/4.9.Test-for-the-mean.Independent-samples-Part-2-lesson.xlsx to zip
+2025-04-13 14:45:08,712 - INFO - Added Part_3_Statistics/S20_L134/4.9.Test-for-the-mean.Independent-samples-Part-2-exercise-2-solution.xlsx to zip
+2025-04-13 14:45:08,832 - INFO - Added Part_3_Statistics/S20_L134/4.9.Test-for-the-mean.Independent-samples-Part-2-exercise-2.xlsx to zip
+2025-04-13 14:45:08,984 - INFO - Added Part_3_Statistics/S21_L135/4.10.Hypothesis-testing-section-practical-example.xlsx to zip
+2025-04-13 14:45:09,112 - INFO - Added Part_3_Statistics/S21_L136/4.10.Hypothesis-testing-section-practical-example-exercise-solution.xlsx to zip
+2025-04-13 14:45:09,217 - INFO - Added Part_3_Statistics/S21_L136/4.10.Hypothesis-testing-section-practical-example-exercise.xlsx to zip
+2025-04-13 14:45:09,336 - INFO - Added Part_4_Python/S23_L143/Python 2/Variables - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:09,457 - INFO - Added Part_4_Python/S23_L143/Python 2/Variables - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:09,568 - INFO - Added Part_4_Python/S23_L143/Python 2/Variables - Solution_Py2.ipynb to zip
+2025-04-13 14:45:09,677 - INFO - Added Part_4_Python/S23_L143/Python 3/Variables - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:09,759 - INFO - Added Part_4_Python/S23_L143/Python 3/Variables - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:09,870 - INFO - Added Part_4_Python/S23_L143/Python 3/Variables - Solution_Py3.ipynb to zip
+2025-04-13 14:45:09,985 - INFO - Added Part_4_Python/S23_L144/Python 2/Numbers and Boolean Values - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:10,075 - INFO - Added Part_4_Python/S23_L144/Python 2/Numbers and Boolean Values - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:10,240 - INFO - Added Part_4_Python/S23_L144/Python 2/Numbers and Boolean Values - Solution_Py2.ipynb to zip
+2025-04-13 14:45:10,404 - INFO - Added Part_4_Python/S23_L144/Python 3/Numbers and Boolean Values - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:10,648 - INFO - Added Part_4_Python/S23_L144/Python 3/Numbers and Boolean Values - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:11,149 - INFO - Added Part_4_Python/S23_L144/Python 3/Numbers and Boolean Values - Solution_Py3.ipynb to zip
+2025-04-13 14:45:11,286 - INFO - Added Part_4_Python/S23_L145/Python 2/Strings - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:11,370 - INFO - Added Part_4_Python/S23_L145/Python 2/Strings - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:11,459 - INFO - Added Part_4_Python/S23_L145/Python 2/Strings - Solution_Py2.ipynb to zip
+2025-04-13 14:45:11,558 - INFO - Added Part_4_Python/S23_L145/Python 3/Strings - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:11,649 - INFO - Added Part_4_Python/S23_L145/Python 3/Strings - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:11,737 - INFO - Added Part_4_Python/S23_L145/Python 3/Strings - Solution_Py3.ipynb to zip
+2025-04-13 14:45:11,826 - INFO - Added Part_4_Python/S24_L146/Python 2/Arithmetic Operators - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:11,914 - INFO - Added Part_4_Python/S24_L146/Python 2/Arithmetic Operators - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:12,021 - INFO - Added Part_4_Python/S24_L146/Python 2/Arithmetic Operators - Solution_Py2.ipynb to zip
+2025-04-13 14:45:12,184 - INFO - Added Part_4_Python/S24_L146/Python 3/Arithmetic Operators - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:12,281 - INFO - Added Part_4_Python/S24_L146/Python 3/Arithmetic Operators - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:12,381 - INFO - Added Part_4_Python/S24_L146/Python 3/Arithmetic Operators - Solution_Py3.ipynb to zip
+2025-04-13 14:45:12,499 - INFO - Added Part_4_Python/S24_L147/Python 2/The Double Equality Sign - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:12,594 - INFO - Added Part_4_Python/S24_L147/Python 2/The Double Equality Sign - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:12,687 - INFO - Added Part_4_Python/S24_L147/Python 2/The Double Equality Sign - Solution_Py2.ipynb to zip
+2025-04-13 14:45:12,786 - INFO - Added Part_4_Python/S24_L147/Python 3/The Double Equality Sign - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:12,876 - INFO - Added Part_4_Python/S24_L147/Python 3/The Double Equality Sign - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:13,082 - INFO - Added Part_4_Python/S24_L147/Python 3/The Double Equality Sign - Solution_Py3.ipynb to zip
+2025-04-13 14:45:13,212 - INFO - Added Part_4_Python/S24_L148/Python 2/Reassign Values - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:13,308 - INFO - Added Part_4_Python/S24_L148/Python 2/Reassign Values - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:13,397 - INFO - Added Part_4_Python/S24_L148/Python 2/Reassign Values - Solution_Py2.ipynb to zip
+2025-04-13 14:45:13,587 - INFO - Added Part_4_Python/S24_L148/Python 3/Reassign Values - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:13,695 - INFO - Added Part_4_Python/S24_L148/Python 3/Reassign Values - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:13,796 - INFO - Added Part_4_Python/S24_L148/Python 3/Reassign Values - Solution_Py3.ipynb to zip
+2025-04-13 14:45:13,900 - INFO - Added Part_4_Python/S24_L149/Python 2/Add Comments - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:13,998 - INFO - Added Part_4_Python/S24_L149/Python 3/Add Comments - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:14,128 - INFO - Added Part_4_Python/S24_L150/0.2.1 Variables/Python 2/Variables - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:14,200 - INFO - Added Part_4_Python/S24_L150/0.2.1 Variables/Python 2/Variables - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:14,282 - INFO - Added Part_4_Python/S24_L150/0.2.1 Variables/Python 2/Variables - Solution_Py2.ipynb to zip
+2025-04-13 14:45:14,366 - INFO - Added Part_4_Python/S24_L150/0.2.1 Variables/Python 3/Variables - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:14,452 - INFO - Added Part_4_Python/S24_L150/0.2.1 Variables/Python 3/Variables - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:14,525 - INFO - Added Part_4_Python/S24_L150/0.2.1 Variables/Python 3/Variables - Solution_Py3.ipynb to zip
+2025-04-13 14:45:14,616 - INFO - Added Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 2/Numbers and Boolean Values - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:14,692 - INFO - Added Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 2/Numbers and Boolean Values - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:14,765 - INFO - Added Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 2/Numbers and Boolean Values - Solution_Py2.ipynb to zip
+2025-04-13 14:45:14,919 - INFO - Added Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 3/Numbers and Boolean Values - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:15,020 - INFO - Added Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 3/Numbers and Boolean Values - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:15,094 - INFO - Added Part_4_Python/S24_L150/0.2.2 Numbers and Boolean Values/Python 3/Numbers and Boolean Values - Solution_Py3.ipynb to zip
+2025-04-13 14:45:15,176 - INFO - Added Part_4_Python/S24_L150/0.2.3 Strings/Python 2/Strings - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:15,270 - INFO - Added Part_4_Python/S24_L150/0.2.3 Strings/Python 2/Strings - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:15,347 - INFO - Added Part_4_Python/S24_L150/0.2.3 Strings/Python 2/Strings - Solution_Py2.ipynb to zip
+2025-04-13 14:45:15,524 - INFO - Added Part_4_Python/S24_L150/0.2.3 Strings/Python 3/Strings - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:15,605 - INFO - Added Part_4_Python/S24_L150/0.2.3 Strings/Python 3/Strings - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:15,657 - INFO - Added Part_4_Python/S24_L150/0.2.3 Strings/Python 3/Strings - Solution_Py3.ipynb to zip
+2025-04-13 14:45:15,733 - INFO - Added Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 2/Arithmetic Operators - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:15,813 - INFO - Added Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 2/Arithmetic Operators - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:15,897 - INFO - Added Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 2/Arithmetic Operators - Solution_Py2.ipynb to zip
+2025-04-13 14:45:16,004 - INFO - Added Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 3/Arithmetic Operators - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:16,076 - INFO - Added Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 3/Arithmetic Operators - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:16,153 - INFO - Added Part_4_Python/S24_L150/0.3.1 Arithmetic Operators/Python 3/Arithmetic Operators - Solution_Py3.ipynb to zip
+2025-04-13 14:45:16,546 - INFO - Added Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 2/The Double Equality Sign - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:16,649 - INFO - Added Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 2/The Double Equality Sign - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:16,724 - INFO - Added Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 2/The Double Equality Sign - Solution_Py2.ipynb to zip
+2025-04-13 14:45:16,816 - INFO - Added Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 3/The Double Equality Sign - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:16,891 - INFO - Added Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 3/The Double Equality Sign - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:16,966 - INFO - Added Part_4_Python/S24_L150/0.3.2 The Double Equality Sign/Python 3/The Double Equality Sign - Solution_Py3.ipynb to zip
+2025-04-13 14:45:17,059 - INFO - Added Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 2/Reassign Values - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:17,134 - INFO - Added Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 2/Reassign Values - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:17,200 - INFO - Added Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 2/Reassign Values - Solution_Py2.ipynb to zip
+2025-04-13 14:45:17,287 - INFO - Added Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 3/Reassign Values - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:17,352 - INFO - Added Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 3/Reassign Values - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:17,420 - INFO - Added Part_4_Python/S24_L150/0.3.3 Reassign Values/Python 3/Reassign Values - Solution_Py3.ipynb to zip
+2025-04-13 14:45:17,494 - INFO - Added Part_4_Python/S24_L150/0.3.4 Add Comments/Python 2/Add Comments - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:17,583 - INFO - Added Part_4_Python/S24_L150/0.3.4 Add Comments/Python 3/Add Comments - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:17,741 - INFO - Added Part_4_Python/S24_L150/Python 2/Line Continuation - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:17,999 - INFO - Added Part_4_Python/S24_L150/Python 2/Line Continuation - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:18,096 - INFO - Added Part_4_Python/S24_L150/Python 2/Line Continuation - Solution_Py2.ipynb to zip
+2025-04-13 14:45:18,190 - INFO - Added Part_4_Python/S24_L150/Python 3/Line Continuation - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:18,264 - INFO - Added Part_4_Python/S24_L150/Python 3/Line Continuation - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:18,439 - INFO - Added Part_4_Python/S24_L150/Python 3/Line Continuation - Solution_Py3.ipynb to zip
+2025-04-13 14:45:18,559 - INFO - Added Part_4_Python/S24_L151/Python 2/Indexing Elements - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:18,638 - INFO - Added Part_4_Python/S24_L151/Python 2/Indexing Elements - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:18,718 - INFO - Added Part_4_Python/S24_L151/Python 2/Indexing Elements - Solution_Py2.ipynb to zip
+2025-04-13 14:45:18,806 - INFO - Added Part_4_Python/S24_L151/Python 3/Indexing Elements - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:18,886 - INFO - Added Part_4_Python/S24_L151/Python 3/Indexing Elements - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:18,985 - INFO - Added Part_4_Python/S24_L151/Python 3/Indexing Elements - Solution_Py3.ipynb to zip
+2025-04-13 14:45:19,086 - INFO - Added Part_4_Python/S24_L152/Python 2/Structure Your Code with Indentation - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:19,158 - INFO - Added Part_4_Python/S24_L152/Python 2/Structure Your Code with Indentation - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:19,234 - INFO - Added Part_4_Python/S24_L152/Python 2/Structure Your Code with Indentation - Solution_Py2.ipynb to zip
+2025-04-13 14:45:19,310 - INFO - Added Part_4_Python/S24_L152/Python 3/Structure Your Code with Indentation - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:19,385 - INFO - Added Part_4_Python/S24_L152/Python 3/Structure Your Code with Indentation - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:19,461 - INFO - Added Part_4_Python/S24_L152/Python 3/Structure Your Code with Indentation - Solution_Py3.ipynb to zip
+2025-04-13 14:45:19,559 - INFO - Added Part_4_Python/S25_L153/Python 2/Comparison Operators - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:19,642 - INFO - Added Part_4_Python/S25_L153/Python 2/Comparison Operators - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:19,727 - INFO - Added Part_4_Python/S25_L153/Python 2/Comparison Operators - Solution_Py2.ipynb to zip
+2025-04-13 14:45:19,807 - INFO - Added Part_4_Python/S25_L153/Python 3/Comparison Operators - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:19,889 - INFO - Added Part_4_Python/S25_L153/Python 3/Comparison Operators - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:19,964 - INFO - Added Part_4_Python/S25_L153/Python 3/Comparison Operators - Solution_Py3.ipynb to zip
+2025-04-13 14:45:20,063 - INFO - Added Part_4_Python/S25_L154/Python 2/Logical and Identity Operators - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:20,145 - INFO - Added Part_4_Python/S25_L154/Python 2/Logical and Identity Operators - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:20,226 - INFO - Added Part_4_Python/S25_L154/Python 2/Logical and Identity Operators - Solution_Py2.ipynb to zip
+2025-04-13 14:45:20,657 - INFO - Added Part_4_Python/S25_L154/Python 3/Logical and Identity Operators - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:20,725 - INFO - Added Part_4_Python/S25_L154/Python 3/Logical and Identity Operators - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:20,816 - INFO - Added Part_4_Python/S25_L154/Python 3/Logical and Identity Operators - Solution_Py3.ipynb to zip
+2025-04-13 14:45:20,930 - INFO - Added Part_4_Python/S26_L155/Python 2/Introduction to the If Statement - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:21,030 - INFO - Added Part_4_Python/S26_L155/Python 2/Introduction to the If Statement - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:21,109 - INFO - Added Part_4_Python/S26_L155/Python 2/Introduction to the If Statement - Solution_Py2.ipynb to zip
+2025-04-13 14:45:21,217 - INFO - Added Part_4_Python/S26_L155/Python 3/Introduction to the If Statement - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:21,300 - INFO - Added Part_4_Python/S26_L155/Python 3/Introduction to the If Statement - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:21,390 - INFO - Added Part_4_Python/S26_L155/Python 3/Introduction to the If Statement - Solution_Py3.ipynb to zip
+2025-04-13 14:45:21,488 - INFO - Added Part_4_Python/S26_L156/Python 2/Add an Else Statement - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:21,571 - INFO - Added Part_4_Python/S26_L156/Python 2/Add an Else Statement - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:21,658 - INFO - Added Part_4_Python/S26_L156/Python 2/Add an Else Statement - Solution_Py2.ipynb to zip
+2025-04-13 14:45:21,761 - INFO - Added Part_4_Python/S26_L156/Python 3/Add an Else Statement - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:21,855 - INFO - Added Part_4_Python/S26_L156/Python 3/Add an Else Statement - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:21,930 - INFO - Added Part_4_Python/S26_L156/Python 3/Add an Else Statement - Solution_Py3.ipynb to zip
+2025-04-13 14:45:22,039 - INFO - Added Part_4_Python/S26_L157/Python 2/Else If, for Brief - Elif - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:22,120 - INFO - Added Part_4_Python/S26_L157/Python 2/Else If, for Brief - Elif - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:22,206 - INFO - Added Part_4_Python/S26_L157/Python 2/Else If, for Brief - Elif - Solution_Py2.ipynb to zip
+2025-04-13 14:45:22,300 - INFO - Added Part_4_Python/S26_L157/Python 3/Else If, for Brief - Elif - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:22,390 - INFO - Added Part_4_Python/S26_L157/Python 3/Else If, for Brief - Elif - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:22,471 - INFO - Added Part_4_Python/S26_L157/Python 3/Else If, for Brief - Elif - Solution_Py3.ipynb to zip
+2025-04-13 14:45:22,575 - INFO - Added Part_4_Python/S26_L158/Python 2/A Note on Boolean Values - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:22,683 - INFO - Added Part_4_Python/S26_L158/Python 3/A Note on Boolean Values - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:23,016 - INFO - Added Part_4_Python/S27_L159/Python 2/Defining a Function in Python - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:23,125 - INFO - Added Part_4_Python/S27_L159/Python 3/Defining a Function in Python - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:23,215 - INFO - Added Part_4_Python/S27_L160/Python 2/Creating a Function with a Parameter - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:23,305 - INFO - Added Part_4_Python/S27_L160/Python 2/Creating a Function with a Parameter - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:23,405 - INFO - Added Part_4_Python/S27_L160/Python 2/Creating a Function with a Parameter - Solution_Py2.ipynb to zip
+2025-04-13 14:45:23,504 - INFO - Added Part_4_Python/S27_L160/Python 3/Creating a Function with a Parameter - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:23,599 - INFO - Added Part_4_Python/S27_L160/Python 3/Creating a Function with a Parameter - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:23,695 - INFO - Added Part_4_Python/S27_L160/Python 3/Creating a Function with a Parameter - Solution_Py3.ipynb to zip
+2025-04-13 14:45:23,820 - INFO - Added Part_4_Python/S27_L161/Python 2/Another Way to Define a Function - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:23,917 - INFO - Added Part_4_Python/S27_L161/Python 2/Another Way to Define a Function - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:24,021 - INFO - Added Part_4_Python/S27_L161/Python 2/Another Way to Define a Function - Solution_Py2.ipynb to zip
+2025-04-13 14:45:24,134 - INFO - Added Part_4_Python/S27_L161/Python 3/Another Way to Define a Function - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:24,242 - INFO - Added Part_4_Python/S27_L161/Python 3/Another Way to Define a Function - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:24,362 - INFO - Added Part_4_Python/S27_L161/Python 3/Another Way to Define a Function - Solution_Py3.ipynb to zip
+2025-04-13 14:45:24,586 - INFO - Added Part_4_Python/S27_L162/Python 2/0.6.4 Using a Function in another Function - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:24,665 - INFO - Added Part_4_Python/S27_L162/Python 2/0.6.4 Using a Function in another Function - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:24,740 - INFO - Added Part_4_Python/S27_L162/Python 2/0.6.4 Using a Function in another Function - Solution_Py2.ipynb to zip
+2025-04-13 14:45:24,834 - INFO - Added Part_4_Python/S27_L162/Python 3/0.6.4 Using a Function in another Function - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:24,909 - INFO - Added Part_4_Python/S27_L162/Python 3/0.6.4 Using a Function in another Function - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:24,986 - INFO - Added Part_4_Python/S27_L162/Python 3/0.6.4 Using a Function in another Function - Solution_Py3.ipynb to zip
+2025-04-13 14:45:25,081 - INFO - Added Part_4_Python/S27_L163/Python 2/Combining Conditional Statements and Functions - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:25,171 - INFO - Added Part_4_Python/S27_L163/Python 2/Combining Conditional Statements and Functions - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:25,270 - INFO - Added Part_4_Python/S27_L163/Python 2/Combining Conditional Statements and Functions - Solution_Py2.ipynb to zip
+2025-04-13 14:45:25,549 - INFO - Added Part_4_Python/S27_L163/Python 3/Combining Conditional Statements and Functions - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:25,656 - INFO - Added Part_4_Python/S27_L163/Python 3/Combining Conditional Statements and Functions - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:25,848 - INFO - Added Part_4_Python/S27_L163/Python 3/Combining Conditional Statements and Functions - Solution_Py3.ipynb to zip
+2025-04-13 14:45:25,956 - INFO - Added Part_4_Python/S27_L164/Python 2/Creating Functions Containing a Few Arguments - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:26,059 - INFO - Added Part_4_Python/S27_L164/Python 3/Creating Functions Containing a Few Arguments - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:26,169 - INFO - Added Part_4_Python/S27_L165/Python 2/Notable Built-In Functions in Python - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:26,268 - INFO - Added Part_4_Python/S27_L165/Python 2/Notable Built-In Functions in Python - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:26,373 - INFO - Added Part_4_Python/S27_L165/Python 2/Notable Built-In Functions in Python - Solution_Py2.ipynb to zip
+2025-04-13 14:45:26,521 - INFO - Added Part_4_Python/S27_L165/Python 3/Notable Built-In Functions in Python - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:26,646 - INFO - Added Part_4_Python/S27_L165/Python 3/Notable Built-In Functions in Python - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:26,756 - INFO - Added Part_4_Python/S27_L165/Python 3/Notable Built-In Functions in Python - Solution_Py3.ipynb to zip
+2025-04-13 14:45:26,933 - INFO - Added Part_4_Python/S28_L166/Python 2/Lists - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:26,979 - INFO - Added Part_4_Python/S28_L166/Python 2/Lists - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:27,051 - INFO - Added Part_4_Python/S28_L166/Python 2/Lists - Solution_Py2.ipynb to zip
+2025-04-13 14:45:27,252 - INFO - Added Part_4_Python/S28_L166/Python 3/Lists - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:27,667 - INFO - Added Part_4_Python/S28_L166/Python 3/Lists - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:27,816 - INFO - Added Part_4_Python/S28_L166/Python 3/Lists - Solution_Py3.ipynb to zip
+2025-04-13 14:45:28,077 - INFO - Added Part_4_Python/S28_L167/Python 2/Help Yourself with Methods - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:28,178 - INFO - Added Part_4_Python/S28_L167/Python 2/Help Yourself with Methods - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:28,427 - INFO - Added Part_4_Python/S28_L167/Python 2/Help Yourself with Methods - Solution_Py2.ipynb to zip
+2025-04-13 14:45:28,804 - INFO - Added Part_4_Python/S28_L167/Python 3/Help Yourself with Methods - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:28,903 - INFO - Added Part_4_Python/S28_L167/Python 3/Help Yourself with Methods - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:28,998 - INFO - Added Part_4_Python/S28_L167/Python 3/Help Yourself with Methods - Solution_Py3.ipynb to zip
+2025-04-13 14:45:29,147 - INFO - Added Part_4_Python/S28_L168/Python 2/List Slicing - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:29,404 - INFO - Added Part_4_Python/S28_L168/Python 2/List Slicing - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:29,508 - INFO - Added Part_4_Python/S28_L168/Python 2/List Slicing - Solution_Py2.ipynb to zip
+2025-04-13 14:45:29,606 - INFO - Added Part_4_Python/S28_L168/Python 3/List Slicing - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:29,688 - INFO - Added Part_4_Python/S28_L168/Python 3/List Slicing - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:29,789 - INFO - Added Part_4_Python/S28_L168/Python 3/List Slicing - Solution_Py3.ipynb to zip
+2025-04-13 14:45:30,183 - INFO - Added Part_4_Python/S28_L169/Python 2/Tuples - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:30,304 - INFO - Added Part_4_Python/S28_L169/Python 2/Tuples - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:30,476 - INFO - Added Part_4_Python/S28_L169/Python 2/Tuples - Solution_Py2.ipynb to zip
+2025-04-13 14:45:30,586 - INFO - Added Part_4_Python/S28_L169/Python 3/Tuples - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:30,695 - INFO - Added Part_4_Python/S28_L169/Python 3/Tuples - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:30,804 - INFO - Added Part_4_Python/S28_L169/Python 3/Tuples - Solution_Py3.ipynb to zip
+2025-04-13 14:45:30,990 - INFO - Added Part_4_Python/S28_L170/Python 2/Dictionaries - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:31,104 - INFO - Added Part_4_Python/S28_L170/Python 2/Dictionaries - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:31,548 - INFO - Added Part_4_Python/S28_L170/Python 2/Dictionaries - Solution_Py2.ipynb to zip
+2025-04-13 14:45:31,780 - INFO - Added Part_4_Python/S28_L170/Python 3/Dictionaries - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:31,866 - INFO - Added Part_4_Python/S28_L170/Python 3/Dictionaries - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:31,944 - INFO - Added Part_4_Python/S28_L170/Python 3/Dictionaries - Solution_Py3.ipynb to zip
+2025-04-13 14:45:32,080 - INFO - Added Part_4_Python/S29_L171/Python 2/For Loops - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:32,166 - INFO - Added Part_4_Python/S29_L171/Python 2/For Loops - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:32,251 - INFO - Added Part_4_Python/S29_L171/Python 2/For Loops - Solution_Py2.ipynb to zip
+2025-04-13 14:45:32,375 - INFO - Added Part_4_Python/S29_L171/Python 3/For Loops - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:32,481 - INFO - Added Part_4_Python/S29_L171/Python 3/For Loops - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:32,560 - INFO - Added Part_4_Python/S29_L171/Python 3/For Loops - Solution_Py3.ipynb to zip
+2025-04-13 14:45:32,802 - INFO - Added Part_4_Python/S29_L172/Python 2/While Loops and Incrementing - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:32,972 - INFO - Added Part_4_Python/S29_L172/Python 2/While Loops and Incrementing - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:33,104 - INFO - Added Part_4_Python/S29_L172/Python 2/While Loops and Incrementing - Solution_Py2.ipynb to zip
+2025-04-13 14:45:33,192 - INFO - Added Part_4_Python/S29_L172/Python 3/While Loops and Incrementing - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:33,270 - INFO - Added Part_4_Python/S29_L172/Python 3/While Loops and Incrementing - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:33,353 - INFO - Added Part_4_Python/S29_L172/Python 3/While Loops and Incrementing - Solution_Py3.ipynb to zip
+2025-04-13 14:45:33,462 - INFO - Added Part_4_Python/S29_L173/Python 2/Create Lists with the range() Function - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:33,555 - INFO - Added Part_4_Python/S29_L173/Python 2/Create Lists with the range() Function - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:33,642 - INFO - Added Part_4_Python/S29_L173/Python 2/Create Lists with the range() Function - Solution_Py2.ipynb to zip
+2025-04-13 14:45:33,737 - INFO - Added Part_4_Python/S29_L173/Python 3/Create Lists with the range() Function - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:33,863 - INFO - Added Part_4_Python/S29_L173/Python 3/Create Lists with the range() Function - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:33,962 - INFO - Added Part_4_Python/S29_L173/Python 3/Create Lists with the range() Function - Solution_Py3.ipynb to zip
+2025-04-13 14:45:34,078 - INFO - Added Part_4_Python/S29_L174/Python 2/Use Conditional Statements and Loops Together - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:34,166 - INFO - Added Part_4_Python/S29_L174/Python 2/Use Conditional Statements and Loops Together - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:34,244 - INFO - Added Part_4_Python/S29_L174/Python 2/Use Conditional Statements and Loops Together - Solution_Py2.ipynb to zip
+2025-04-13 14:45:34,343 - INFO - Added Part_4_Python/S29_L174/Python 3/Use Conditional Statements and Loops Together - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:34,436 - INFO - Added Part_4_Python/S29_L174/Python 3/Use Conditional Statements and Loops Together - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:34,512 - INFO - Added Part_4_Python/S29_L174/Python 3/Use Conditional Statements and Loops Together - Solution_Py3.ipynb to zip
+2025-04-13 14:45:34,597 - INFO - Added Part_4_Python/S29_L175/Python 2/All In - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:34,705 - INFO - Added Part_4_Python/S29_L175/Python 2/All In - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:34,798 - INFO - Added Part_4_Python/S29_L175/Python 2/All In - Solution_Py2.ipynb to zip
+2025-04-13 14:45:34,915 - INFO - Added Part_4_Python/S29_L175/Python 3/All In - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:35,015 - INFO - Added Part_4_Python/S29_L175/Python 3/All In - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:35,129 - INFO - Added Part_4_Python/S29_L175/Python 3/All In - Solution_Py3.ipynb to zip
+2025-04-13 14:45:35,270 - INFO - Added Part_4_Python/S29_L176/Python 2/Iterating over Dictionaries - Exercise_Py2.ipynb to zip
+2025-04-13 14:45:35,506 - INFO - Added Part_4_Python/S29_L176/Python 2/Iterating over Dictionaries - Lecture_Py2.ipynb to zip
+2025-04-13 14:45:35,599 - INFO - Added Part_4_Python/S29_L176/Python 2/Iterating over Dictionaries - Solution_Py2.ipynb to zip
+2025-04-13 14:45:35,672 - INFO - Added Part_4_Python/S29_L176/Python 3/Iterating over Dictionaries - Exercise_Py3.ipynb to zip
+2025-04-13 14:45:35,752 - INFO - Added Part_4_Python/S29_L176/Python 3/Iterating over Dictionaries - Lecture_Py3.ipynb to zip
+2025-04-13 14:45:35,923 - INFO - Added Part_4_Python/S29_L176/Python 3/Iterating over Dictionaries - Solution_Py3.ipynb to zip
+2025-04-13 14:45:36,122 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L186/1.01. Simple linear regression.csv to zip
+2025-04-13 14:45:36,227 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L186/Simple linear regression.ipynb to zip
+2025-04-13 14:45:36,328 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L186/Simple linear regression_with_comments.ipynb to zip
+2025-04-13 14:45:36,442 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L187/real_estate_price_size.csv to zip
+2025-04-13 14:45:36,672 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L187/Simple Linear Regression Exercise Solution.ipynb to zip
+2025-04-13 14:45:37,024 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S32_L187/Simple Linear Regression Exercise.ipynb to zip
+2025-04-13 14:45:37,233 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L194/1.02. Multiple linear regression.csv to zip
+2025-04-13 14:45:37,315 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L194/Multiple linear regression and Adjusted R-squared_.ipynb to zip
+2025-04-13 14:45:37,394 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L194/Multiple linear regression and Adjusted R-squared_with_comments.ipynb to zip
+2025-04-13 14:45:37,493 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L195/Multiple Linear Regression Exercise Solution.ipynb to zip
+2025-04-13 14:45:37,593 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L195/Multiple Linear Regression Exercise.ipynb to zip
+2025-04-13 14:45:37,674 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L195/real_estate_price_size_year.csv to zip
+2025-04-13 14:45:37,788 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L203/1.03. Dummies.csv to zip
+2025-04-13 14:45:38,026 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L203/Dummy Variables.ipynb to zip
+2025-04-13 14:45:38,207 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L203/Dummy variables_with_comments.ipynb to zip
+2025-04-13 14:45:38,366 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L204/Multiple Linear Regression with Dummies Exercise Solution.ipynb to zip
+2025-04-13 14:45:38,483 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L204/Multiple Linear Regression with Dummies Exercise.ipynb to zip
+2025-04-13 14:45:38,574 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L204/real_estate_price_size_year_view.csv to zip
+2025-04-13 14:45:38,688 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L205/Making predictions.ipynb to zip
+2025-04-13 14:45:38,792 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S33_L205/Making predictions_with_comments.ipynb to zip
+2025-04-13 14:45:38,884 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L208/1.01. Simple linear regression.csv to zip
+2025-04-13 14:45:38,982 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L208/sklearn - Simple Linear Regression.ipynb to zip
+2025-04-13 14:45:39,063 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L208/sklearn - Simple Linear Regression_with_comments.ipynb to zip
+2025-04-13 14:45:39,145 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L209/1.01. Simple linear regression.csv to zip
+2025-04-13 14:45:39,253 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L209/sklearn - Simple Linear Regression.ipynb to zip
+2025-04-13 14:45:39,348 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L209/sklearn - Simple Linear Regression_with_comments.ipynb to zip
+2025-04-13 14:45:39,466 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L211/real_estate_price_size.csv to zip
+2025-04-13 14:45:39,612 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L211/Simple Linear Regression with sklearn - Exercise Solution.ipynb to zip
+2025-04-13 14:45:39,724 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L211/Simple Linear Regression with sklearn - Exercise.ipynb to zip
+2025-04-13 14:45:39,829 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L212/1.02. Multiple linear regression.csv to zip
+2025-04-13 14:45:39,936 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L212/sklearn - Multiple Linear Regression.ipynb to zip
+2025-04-13 14:45:40,078 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L212/sklearn - Multiple Linear Regression_with_comments.ipynb to zip
+2025-04-13 14:45:40,212 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L213/1.02. Multiple linear regression.csv to zip
+2025-04-13 14:45:40,474 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L213/sklearn - Multiple Linear Regression and Adjusted R-squared.ipynb to zip
+2025-04-13 14:45:40,580 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L213/sklearn - Multiple Linear Regression and Adjusted R-squared_with_comments.ipynb to zip
+2025-04-13 14:45:40,645 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L214/1.02. Multiple linear regression.csv to zip
+2025-04-13 14:45:40,762 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L214/sklearn - Multiple Linear Regression and Adjusted R-squared - Exercise Solution.ipynb to zip
+2025-04-13 14:45:40,889 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L214/sklearn - Multiple Linear Regression and Adjusted R-squared - Exercise.ipynb to zip
+2025-04-13 14:45:41,002 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L215/1.02. Multiple linear regression.csv to zip
+2025-04-13 14:45:41,107 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L215/sklearn - Feature Selection with F-regression.ipynb to zip
+2025-04-13 14:45:41,197 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L215/sklearn - Feature Selection with F-regression_with_comments.ipynb to zip
+2025-04-13 14:45:41,277 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L216/1.02. Multiple linear regression.csv to zip
+2025-04-13 14:45:41,367 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L216/sklearn - How to properly include p-values.ipynb to zip
+2025-04-13 14:45:41,450 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L217/1.02. Multiple linear regression.csv to zip
+2025-04-13 14:45:41,562 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L217/sklearn - Multiple Linear Regression Summary Table.ipynb to zip
+2025-04-13 14:45:41,664 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L217/sklearn - Multiple Linear Regression Summary Table_with_comments.ipynb to zip
+2025-04-13 14:45:41,757 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L218/real_estate_price_size_year.csv to zip
+2025-04-13 14:45:41,852 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L218/sklearn - Multiple Linear Regression Exercise Solution.ipynb to zip
+2025-04-13 14:45:41,946 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L218/sklearn - Multiple Linear Regression Exercise.ipynb to zip
+2025-04-13 14:45:42,344 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L219/1.02. Multiple linear regression.csv to zip
+2025-04-13 14:45:42,472 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L219/sklearn - Feature Selection through Feature Scaling (Standardization) - Part 1.ipynb to zip
+2025-04-13 14:45:42,593 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L219/sklearn - Feature Selection through Feature Scaling (Standardization) - Part 1_with_comments.ipynb to zip
+2025-04-13 14:45:42,689 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L220/1.02. Multiple linear regression.csv to zip
+2025-04-13 14:45:42,799 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L220/sklearn - Feature Selection through Feature Scaling (Standardization) - Part 2.ipynb to zip
+2025-04-13 14:45:43,003 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L220/sklearn - Feature Selection through Feature Scaling (Standardization) - Part 2_with_comments.ipynb to zip
+2025-04-13 14:45:43,072 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L221/1.02. Multiple linear regression.csv to zip
+2025-04-13 14:45:43,145 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L221/sklearn - Making Predictions with the Standardized Coefficients.ipynb to zip
+2025-04-13 14:45:43,229 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L221/sklearn - Making Predictions with the Standardized Coefficients_with_comments.ipynb to zip
+2025-04-13 14:45:43,317 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L222/real_estate_price_size_year.csv to zip
+2025-04-13 14:45:43,426 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L222/sklearn - Feature Scaling Exercise Solution.ipynb to zip
+2025-04-13 14:45:43,529 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L222/sklearn - Feature Scaling Exercise.ipynb to zip
+2025-04-13 14:45:43,643 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L224/sklearn - Train Test Split.ipynb to zip
+2025-04-13 14:45:43,742 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S34_L224/sklearn - Train Test Split_with_comments.ipynb to zip
+2025-04-13 14:45:43,897 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L225/1.04. Real-life example.csv to zip
+2025-04-13 14:45:44,004 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L225/sklearn - Linear Regression - Practical Example (Part 1).ipynb to zip
+2025-04-13 14:45:44,122 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L225/sklearn - Linear Regression - Practical Example (Part 1)_with_comments.ipynb to zip
+2025-04-13 14:45:44,266 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L226/1.04. Real-life example.csv to zip
+2025-04-13 14:45:44,376 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L226/sklearn - Linear Regression - Practical Example (Part 2).ipynb to zip
+2025-04-13 14:45:44,464 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L226/sklearn - Linear Regression - Practical Example (Part 2)_with_comments.ipynb to zip
+2025-04-13 14:45:44,600 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L228/1.04. Real-life example.csv to zip
+2025-04-13 14:45:44,709 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L228/sklearn - Linear Regression - Practical Example (Part 3).ipynb to zip
+2025-04-13 14:45:44,816 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L228/sklearn - Linear Regression - Practical Example (Part 3)_with_comments.ipynb to zip
+2025-04-13 14:45:45,090 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L229/1.04. Real-life example.csv to zip
+2025-04-13 14:45:45,189 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L229/sklearn - Dummies and VIF - Exercise Solution.ipynb to zip
+2025-04-13 14:45:45,462 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L229/sklearn - Dummies and VIF - Exercise.ipynb to zip
+2025-04-13 14:45:45,597 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L230/1.04. Real-life example.csv to zip
+2025-04-13 14:45:45,694 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L230/sklearn - Linear Regression - Practical Example (Part 4).ipynb to zip
+2025-04-13 14:45:45,799 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L230/sklearn - Linear Regression - Practical Example (Part 4)_with_comments.ipynb to zip
+2025-04-13 14:45:45,944 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L232/1.04. Real-life example.csv to zip
+2025-04-13 14:45:46,269 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L232/sklearn - Linear Regression - Practical Example (Part 5).ipynb to zip
+2025-04-13 14:45:46,664 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S35_L232/sklearn - Linear Regression - Practical Example (Part 5)_with_comments.ipynb to zip
+2025-04-13 14:45:46,777 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L235/2.01. Admittance.csv to zip
+2025-04-13 14:45:46,877 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L235/Admittance.ipynb to zip
+2025-04-13 14:45:46,961 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L235/Admittance_with_comments.ipynb to zip
+2025-04-13 14:45:47,089 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L237/Admittance regression tables_fixed_error.ipynb to zip
+2025-04-13 14:45:47,191 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L237/Admittance regression.ipynb to zip
+2025-04-13 14:45:47,284 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L237/Admittance regression_summary_error.ipynb to zip
+2025-04-13 14:45:47,398 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L238/Building a Logistic Regression - Exercise.ipynb to zip
+2025-04-13 14:45:47,505 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L238/Building a Logistic Regression - Solution.ipynb to zip
+2025-04-13 14:45:47,614 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L238/Example-bank-data.csv to zip
+2025-04-13 14:45:47,950 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L241/Bank-data.csv to zip
+2025-04-13 14:45:48,036 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L241/Understanding Logistic Regression Tables - Exercise.ipynb to zip
+2025-04-13 14:45:48,129 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L241/Understanding Logistic Regression Tables - Solution.ipynb to zip
+2025-04-13 14:45:48,212 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L243/2.02. Binary predictors.csv to zip
+2025-04-13 14:45:48,314 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L243/Binary predictors.ipynb to zip
+2025-04-13 14:45:48,425 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L244/Bank-data.csv to zip
+2025-04-13 14:45:48,516 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L244/Binary Predictors in a Logistic Regression - Exercise.ipynb to zip
+2025-04-13 14:45:48,618 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L244/Binary Predictors in a Logistic Regression - Solution.ipynb to zip
+2025-04-13 14:45:48,712 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L245/Accuracy.ipynb to zip
+2025-04-13 14:45:48,819 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L245/Accuracy_with_comments.ipynb to zip
+2025-04-13 14:45:48,961 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L246/Bank-data.csv to zip
+2025-04-13 14:45:49,057 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L246/Calculating the Accuracy of the Model - Exercise.ipynb to zip
+2025-04-13 14:45:49,165 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L246/Calculating the Accuracy of the Model - Solution.ipynb to zip
+2025-04-13 14:45:49,267 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L248/2.03. Test dataset.csv to zip
+2025-04-13 14:45:49,349 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L248/Testing the model.ipynb to zip
+2025-04-13 14:45:49,428 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L248/Testing the model_with_comments.ipynb to zip
+2025-04-13 14:45:49,539 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L249/Bank-data-testing.csv to zip
+2025-04-13 14:45:49,636 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L249/Bank-data.csv to zip
+2025-04-13 14:45:49,727 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L249/Testing the Model - Exercise..ipynb to zip
+2025-04-13 14:45:49,846 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S36_L249/Testing the Model - Solution.ipynb to zip
+2025-04-13 14:45:49,919 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L255/3.01. Country clusters.csv to zip
+2025-04-13 14:45:49,992 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L255/Country clusters.ipynb to zip
+2025-04-13 14:45:50,083 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L255/Country clusters_with_comments.ipynb to zip
+2025-04-13 14:45:50,169 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L256/A Simple Example of Clustering - Exercise.ipynb to zip
+2025-04-13 14:45:50,476 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L256/A Simple Example of Clustering - Solution.ipynb to zip
+2025-04-13 14:45:50,561 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L256/Countries-exercise.csv to zip
+2025-04-13 14:45:50,650 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L257/Categorical data.ipynb to zip
+2025-04-13 14:45:50,747 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L257/Categorical data_with_comments.ipynb to zip
+2025-04-13 14:45:50,881 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L258/Categorical.csv to zip
+2025-04-13 14:45:51,005 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L258/Clustering Categorical Data - Exercise.ipynb to zip
+2025-04-13 14:45:51,118 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L258/Clustering Categorical Data - Solution.ipynb to zip
+2025-04-13 14:45:51,223 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L259/Selecting the number of clusters.ipynb to zip
+2025-04-13 14:45:51,327 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L259/Selecting the number of clusters_with_comments.ipynb to zip
+2025-04-13 14:45:51,441 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L260/Countries-exercise.csv to zip
+2025-04-13 14:45:51,540 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L260/How to Choose the Number of Clusters - Exercise.ipynb to zip
+2025-04-13 14:45:51,699 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L260/How to Choose the Number of Clusters - Solution.ipynb to zip
+2025-04-13 14:45:51,941 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L264/3.12. Example.csv to zip
+2025-04-13 14:45:52,027 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L264/Market segmentation example.ipynb to zip
+2025-04-13 14:45:52,117 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L264/Market segmentation example_with_comments.ipynb to zip
+2025-04-13 14:45:52,232 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L265/Market segmentation example_Part2.ipynb to zip
+2025-04-13 14:45:52,308 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L265/Market segmentation example_Part2_with_comments.ipynb to zip
+2025-04-13 14:45:52,413 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L267/iris-dataset.csv to zip
+2025-04-13 14:45:52,494 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L267/Species Segmentation with Cluster Analysis Part 1- Exercise.ipynb to zip
+2025-04-13 14:45:52,576 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L267/Species Segmentation with Cluster Analysis Part 1- Solution.ipynb to zip
+2025-04-13 14:45:52,672 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L268/iris-dataset.csv to zip
+2025-04-13 14:45:52,757 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L268/iris-with-answers.csv to zip
+2025-04-13 14:45:52,965 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L268/Species Segmentation with Cluster Analysis Part 2 - Exercise.ipynb to zip
+2025-04-13 14:45:53,084 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S38_L268/Species Segmentation with Cluster Analysis Part 2 - Solution.ipynb to zip
+2025-04-13 14:45:53,172 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S39_L271/Country clusters standardized.csv to zip
+2025-04-13 14:45:53,252 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S39_L271/Heatmaps.ipynb to zip
+2025-04-13 14:45:53,367 - INFO - Added Part_5_Advanced_Statistical_Methods_(Machine_Learning)/S39_L271/Heatmaps_with_comments.ipynb to zip
+2025-04-13 14:45:53,486 - INFO - Added Part_6_Mathematics/S40_L275/Scalars, Vectors, and Matrices.ipynb to zip
+2025-04-13 14:45:53,579 - INFO - Added Part_6_Mathematics/S40_L276/Tensors.ipynb to zip
+2025-04-13 14:45:53,677 - INFO - Added Part_6_Mathematics/S40_L277/Adding and subtracting matrices.ipynb to zip
+2025-04-13 14:45:53,763 - INFO - Added Part_6_Mathematics/S40_L278/Errors when adding scalars, vectors, and matrices in Python.ipynb to zip
+2025-04-13 14:45:53,848 - INFO - Added Part_6_Mathematics/S40_L279/Tranpose of a matrix.ipynb to zip
+2025-04-13 14:45:53,936 - INFO - Added Part_6_Mathematics/S40_L280/Dot product.ipynb to zip
+2025-04-13 14:45:54,017 - INFO - Added Part_6_Mathematics/S40_L281/Dot product (Part 2).ipynb to zip
+2025-04-13 14:45:54,126 - INFO - Added Part_7_Deep_Learning/S43_L296/Minimal_example_Part_1.ipynb to zip
+2025-04-13 14:45:54,206 - INFO - Added Part_7_Deep_Learning/S43_L297/Minimal_example_Part_2.ipynb to zip
+2025-04-13 14:45:54,329 - INFO - Added Part_7_Deep_Learning/S43_L298/Minimal_example_Part_3.ipynb to zip
+2025-04-13 14:45:54,418 - INFO - Added Part_7_Deep_Learning/S43_L299/Minimal_example_Part_4_Complete.ipynb to zip
+2025-04-13 14:45:54,519 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_All_Exercises.ipynb to zip
+2025-04-13 14:45:54,606 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_1_Solution.ipynb to zip
+2025-04-13 14:45:54,690 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_2_Solution.ipynb to zip
+2025-04-13 14:45:54,782 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_3.a. Solution.ipynb to zip
+2025-04-13 14:45:54,903 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_3.b. Solution.ipynb to zip
+2025-04-13 14:45:55,004 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_3.c. Solution.ipynb to zip
+2025-04-13 14:45:55,126 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_3.d. Solution.ipynb to zip
+2025-04-13 14:45:55,346 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_4_Solution.ipynb to zip
+2025-04-13 14:45:55,441 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_5_Solution.ipynb to zip
+2025-04-13 14:45:55,520 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_6.ipynb to zip
+2025-04-13 14:45:55,599 - INFO - Added Part_7_Deep_Learning/S43_L300/Minimal_example_Exercise_6_Solution.ipynb to zip
+2025-04-13 14:45:57,499 - INFO - Added Part_7_Deep_Learning/S44_L304/Shortcuts-for-Jupyter.pdf to zip
+2025-04-13 14:45:57,591 - INFO - Added Part_7_Deep_Learning/S44_L305/TensorFlow_Minimal_example_Part1.ipynb to zip
+2025-04-13 14:45:57,682 - INFO - Added Part_7_Deep_Learning/S44_L306/TensorFlow_Minimal_example_Part2.ipynb to zip
+2025-04-13 14:45:57,907 - INFO - Added Part_7_Deep_Learning/S44_L307/TensorFlow_Minimal_example_Part3.ipynb to zip
+2025-04-13 14:45:58,007 - INFO - Added Part_7_Deep_Learning/S44_L308/TensorFlow_Minimal_example_complete.ipynb to zip
+2025-04-13 14:45:58,101 - INFO - Added Part_7_Deep_Learning/S44_L308/TensorFlow_Minimal_example_complete_with_comments.ipynb to zip
+2025-04-13 14:45:58,222 - INFO - Added Part_7_Deep_Learning/S44_L309/TensorFlow_Minimal_example_All_exercises.ipynb to zip
+2025-04-13 14:45:58,337 - INFO - Added Part_7_Deep_Learning/S44_L309/TensorFlow_Minimal_example_Exercise_1_Solution.ipynb to zip
+2025-04-13 14:45:58,539 - INFO - Added Part_7_Deep_Learning/S44_L309/TensorFlow_Minimal_Example_Exercise_2_1_Solution.ipynb to zip
+2025-04-13 14:45:58,670 - INFO - Added Part_7_Deep_Learning/S44_L309/TensorFlow_Minimal_Example_Exercise_2_2_Solution.ipynb to zip
+2025-04-13 14:45:58,796 - INFO - Added Part_7_Deep_Learning/S44_L309/TensorFlow_Minimal_Example_Exercise_3_Solution.ipynb to zip
+2025-04-13 14:45:59,651 - INFO - Added Part_7_Deep_Learning/S45_L310/Course-Notes-Section-6.pdf to zip
+2025-04-13 14:46:00,444 - INFO - Added Part_7_Deep_Learning/S45_L311/Course-Notes-Section-6.pdf to zip
+2025-04-13 14:46:00,572 - INFO - Added Part_7_Deep_Learning/S45_L318/Backpropagation-a-peek-into-the-Mathematics-of-Optimization.pdf to zip
+2025-04-13 14:46:00,691 - INFO - Added Part_7_Deep_Learning/S50_L342/TensorFlow_MNIST_Part1_with_comments.ipynb to zip
+2025-04-13 14:46:00,812 - INFO - Added Part_7_Deep_Learning/S50_L344/TensorFlow_MNIST_Part2_with_comments.ipynb to zip
+2025-04-13 14:46:00,962 - INFO - Added Part_7_Deep_Learning/S50_L346/TensorFlow_MNIST_Part3_with_comments.ipynb to zip
+2025-04-13 14:46:01,065 - INFO - Added Part_7_Deep_Learning/S50_L347/TensorFlow_MNIST_Part4_with_comments.ipynb to zip
+2025-04-13 14:46:01,171 - INFO - Added Part_7_Deep_Learning/S50_L348/TensorFlow_MNIST_Part5_with_comments.ipynb to zip
+2025-04-13 14:46:01,276 - INFO - Added Part_7_Deep_Learning/S50_L349/TensorFlow_MNIST_Part6_with_comments.ipynb to zip
+2025-04-13 14:46:01,388 - INFO - Added Part_7_Deep_Learning/S50_L350/1. TensorFlow_MNIST_Width_Solution.ipynb to zip
+2025-04-13 14:46:01,486 - INFO - Added Part_7_Deep_Learning/S50_L350/2. TensorFlow_MNIST_Depth_Solution.ipynb to zip
+2025-04-13 14:46:01,587 - INFO - Added Part_7_Deep_Learning/S50_L350/3. TensorFlow_MNIST_Width_and_Depth_Solution.ipynb to zip
+2025-04-13 14:46:01,678 - INFO - Added Part_7_Deep_Learning/S50_L350/4. TensorFlow_MNIST_Activation_functions_Part_1_Solution.ipynb to zip
+2025-04-13 14:46:01,763 - INFO - Added Part_7_Deep_Learning/S50_L350/5. TensorFlow_MNIST_Activation_functions_Part_2_Solution.ipynb to zip
+2025-04-13 14:46:01,854 - INFO - Added Part_7_Deep_Learning/S50_L350/6. TensorFlow_MNIST_Batch_size_Part_1_Solution.ipynb to zip
+2025-04-13 14:46:01,945 - INFO - Added Part_7_Deep_Learning/S50_L350/7. TensorFlow_MNIST_Batch_size_Part_2_Solution.ipynb to zip
+2025-04-13 14:46:02,029 - INFO - Added Part_7_Deep_Learning/S50_L350/8. TensorFlow_MNIST_Learning_rate_Part_1_Solution.ipynb to zip
+2025-04-13 14:46:02,112 - INFO - Added Part_7_Deep_Learning/S50_L350/9. TensorFlow_MNIST_Learning_rate_Part_2_Solution.ipynb to zip
+2025-04-13 14:46:02,194 - INFO - Added Part_7_Deep_Learning/S50_L350/TensorFlow_MNIST_All_Exercises.ipynb to zip
+2025-04-13 14:46:02,309 - INFO - Added Part_7_Deep_Learning/S50_L350/TensorFlow_MNIST_around_98_percent_accuracy.ipynb to zip
+2025-04-13 14:46:02,420 - INFO - Added Part_7_Deep_Learning/S50_L351/TensorFlow_MNIST_complete.ipynb to zip
+2025-04-13 14:46:02,525 - INFO - Added Part_7_Deep_Learning/S50_L351/TensorFlow_MNIST_complete_with_comments.ipynb to zip
+2025-04-13 14:46:02,809 - INFO - Added Part_7_Deep_Learning/S51_L352/Audiobooks_data.csv to zip
+2025-04-13 14:46:02,912 - INFO - Added Part_7_Deep_Learning/S51_L355/Audiobooks_data.csv to zip
+2025-04-13 14:46:02,992 - INFO - Added Part_7_Deep_Learning/S51_L355/TensorFlow_Audiobooks_Preprocessing.ipynb to zip
+2025-04-13 14:46:03,081 - INFO - Added Part_7_Deep_Learning/S51_L355/TensorFlow_Audiobooks_Preprocessing_with_comments.ipynb to zip
+2025-04-13 14:46:03,276 - INFO - Added Part_7_Deep_Learning/S51_L356/Audiobooks_data.csv to zip
+2025-04-13 14:46:03,371 - INFO - Added Part_7_Deep_Learning/S51_L356/TensorFlow_Audiobooks_Preprocessing_Exercise.ipynb to zip
+2025-04-13 14:46:03,461 - INFO - Added Part_7_Deep_Learning/S51_L356/TensorFlow_Audiobooks_Preprocessing_Exercise_Solution.ipynb to zip
+2025-04-13 14:46:03,573 - INFO - Added Part_7_Deep_Learning/S51_L358/TensorFlow_Audiobooks_Machine_Learning_Part1_with_comments.ipynb to zip
+2025-04-13 14:46:03,674 - INFO - Added Part_7_Deep_Learning/S51_L359/TensorFlow_Audiobooks_Machine_Learning_Part2_with_comments.ipynb to zip
+2025-04-13 14:46:03,855 - INFO - Added Part_7_Deep_Learning/S51_L360/TensorFlow_Audiobooks_Machine_Learning_Part3_with_comments.ipynb to zip
+2025-04-13 14:46:04,058 - INFO - Added Part_7_Deep_Learning/S51_L362/TensorFlow_Audiobooks_Machine_Learning_with_comments.ipynb to zip
+2025-04-13 14:46:04,410 - INFO - Added Part_7_Deep_Learning/S51_L363/TensorFlow_Audiobooks_Machine_Learning_with_comments.ipynb to zip
+2025-04-13 14:46:06,439 - INFO - Added Part_7_Deep_Learning/S53_L374/Shortcuts-for-Jupyter.pdf to zip
+2025-04-13 14:46:07,907 - INFO - Added Part_7_Deep_Learning/S53_L375/5.3. TensorFlow_Minimal_example_Part_1.ipynb to zip
+2025-04-13 14:46:07,981 - INFO - Added Part_7_Deep_Learning/S53_L376/5.4. TensorFlow_Minimal_example_Part_2.ipynb to zip
+2025-04-13 14:46:08,090 - INFO - Added Part_7_Deep_Learning/S53_L377/5.5. TensorFlow_Minimal_example_Part_3.ipynb to zip
+2025-04-13 14:46:08,229 - INFO - Added Part_7_Deep_Learning/S53_L378/5.6. TensorFlow_Minimal_example_complete.ipynb to zip
+2025-04-13 14:46:08,333 - INFO - Added Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_All_Exercises.ipynb to zip
+2025-04-13 14:46:08,453 - INFO - Added Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_1_Solution.ipynb to zip
+2025-04-13 14:46:08,575 - INFO - Added Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_2_1_Solution.ipynb to zip
+2025-04-13 14:46:08,679 - INFO - Added Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_2_2_Solution.ipynb to zip
+2025-04-13 14:46:08,785 - INFO - Added Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_2_3_Solution.ipynb to zip
+2025-04-13 14:46:08,909 - INFO - Added Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_2_4_Solution.ipynb to zip
+2025-04-13 14:46:09,006 - INFO - Added Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_3_Solution.ipynb to zip
+2025-04-13 14:46:09,119 - INFO - Added Part_7_Deep_Learning/S53_L379/TensorFlow_Minimal_Example_Exercise_4_Solution.ipynb to zip
+2025-04-13 14:46:09,215 - INFO - Added Part_7_Deep_Learning/S54_L382/12.3. TensorFlow_MNIST_with_comments_Part_1.ipynb to zip
+2025-04-13 14:46:09,320 - INFO - Added Part_7_Deep_Learning/S54_L383/12.4. TensorFlow_MNIST_with_comments_Part_2.ipynb to zip
+2025-04-13 14:46:09,461 - INFO - Added Part_7_Deep_Learning/S54_L384/12.5. TensorFlow_MNIST_with_comments_Part_3.ipynb to zip
+2025-04-13 14:46:09,580 - INFO - Added Part_7_Deep_Learning/S54_L385/12.6. TensorFlow_MNIST_with_comments_Part_4.ipynb to zip
+2025-04-13 14:46:09,696 - INFO - Added Part_7_Deep_Learning/S54_L386/12.7. TensorFlow_MNIST_with_comments_Part_5.ipynb to zip
+2025-04-13 14:46:09,800 - INFO - Added Part_7_Deep_Learning/S54_L387/12.8. TensorFlow_MNIST_with_comments_Part_6.ipynb to zip
+2025-04-13 14:46:09,905 - INFO - Added Part_7_Deep_Learning/S54_L388/12.9. TensorFlow_MNIST_with_comments.ipynb to zip
+2025-04-13 14:46:10,018 - INFO - Added Part_7_Deep_Learning/S54_L389/TensorFlow_MNIST_Exercises_All.ipynb to zip
+2025-04-13 14:46:10,241 - INFO - Added Part_7_Deep_Learning/S54_L390/0. TensorFlow_MNIST_take_note_of_time_Solution.ipynb to zip
+2025-04-13 14:46:10,372 - INFO - Added Part_7_Deep_Learning/S54_L390/1. TensorFlow_MNIST_Width_Solution.ipynb to zip
+2025-04-13 14:46:10,486 - INFO - Added Part_7_Deep_Learning/S54_L390/2. TensorFlow_MNIST_Depth_Solution.ipynb to zip
+2025-04-13 14:46:10,569 - INFO - Added Part_7_Deep_Learning/S54_L390/3. TensorFlow_MNIST_Width_and_Depth_Solution.ipynb to zip
+2025-04-13 14:46:10,658 - INFO - Added Part_7_Deep_Learning/S54_L390/4. TensorFlow_MNIST_Activation_functions_Part_1_Solution.ipynb to zip
+2025-04-13 14:46:10,830 - INFO - Added Part_7_Deep_Learning/S54_L390/5. TensorFlow_MNIST_Activation_functions_Part_2_Solution.ipynb to zip
+2025-04-13 14:46:10,934 - INFO - Added Part_7_Deep_Learning/S54_L390/6. TensorFlow_MNIST_Batch_size_Part_1_Solution.ipynb to zip
+2025-04-13 14:46:11,050 - INFO - Added Part_7_Deep_Learning/S54_L390/7. TensorFlow_MNIST_Batch_size_Part_2_Solution.ipynb to zip
+2025-04-13 14:46:11,158 - INFO - Added Part_7_Deep_Learning/S54_L390/8. TensorFlow_MNIST_Learning_rate_Part_1_Solution.ipynb to zip
+2025-04-13 14:46:11,263 - INFO - Added Part_7_Deep_Learning/S54_L390/9. TensorFlow_MNIST_Learning_rate_Part_2_Solution.ipynb to zip
+2025-04-13 14:46:11,371 - INFO - Added Part_7_Deep_Learning/S54_L390/TensorFlow_MNIST_around_98_percent_accuracy.ipynb to zip
+2025-04-13 14:46:11,498 - INFO - Added Part_7_Deep_Learning/S55_L391/Audiobooks-data.csv to zip
+2025-04-13 14:46:11,630 - INFO - Added Part_7_Deep_Learning/S55_L392/Audiobooks_data.csv to zip
+2025-04-13 14:46:11,702 - INFO - Added Part_7_Deep_Learning/S55_L392/TensorFlow_Audiobooks_Preprocessing.ipynb to zip
+2025-04-13 14:46:11,793 - INFO - Added Part_7_Deep_Learning/S55_L392/TensorFlow_Audiobooks_Preprocessing_with_comments.ipynb to zip
+2025-04-13 14:46:11,871 - INFO - Added Part_7_Deep_Learning/S55_L392/.ipynb_checkpoints/TensorFlow_Audiobooks_Preprocessing_lesson-checkpoint.ipynb to zip
+2025-04-13 14:46:11,958 - INFO - Added Part_7_Deep_Learning/S55_L392/.ipynb_checkpoints/TensorFlow_Audiobooks_Preprocessing_with_comments-checkpoint.ipynb to zip
+2025-04-13 14:46:12,049 - INFO - Added Part_7_Deep_Learning/S55_L394/TensorFlow_Audiobooks_Batching.ipynb to zip
+2025-04-13 14:46:12,130 - INFO - Added Part_7_Deep_Learning/S55_L394/.ipynb_checkpoints/TensorFlow_Audiobooks_Batching-checkpoint.ipynb to zip
+2025-04-13 14:46:12,344 - INFO - Added Part_7_Deep_Learning/S55_L395/Audiobooks_data.csv to zip
+2025-04-13 14:46:12,438 - INFO - Added Part_7_Deep_Learning/S55_L395/TensorFlow_Audiobooks_Preprocessing_Exercise.ipynb to zip
+2025-04-13 14:46:12,533 - INFO - Added Part_7_Deep_Learning/S55_L395/TensorFlow_Audiobooks_Preprocessing_Exercise_Solution.ipynb to zip
+2025-04-13 14:46:12,654 - INFO - Added Part_7_Deep_Learning/S55_L395/.ipynb_checkpoints/TensorFlow_Audiobooks_Preprocessing_Exercise-checkpoint.ipynb to zip
+2025-04-13 14:46:12,868 - INFO - Added Part_7_Deep_Learning/S55_L395/.ipynb_checkpoints/TensorFlow_Audiobooks_Preprocessing_Exercise_Solution-checkpoint.ipynb to zip
+2025-04-13 14:46:12,966 - INFO - Added Part_7_Deep_Learning/S55_L397/TensorFlow_Audiobooks_Outlining_the_model.ipynb to zip
+2025-04-13 14:46:13,055 - INFO - Added Part_7_Deep_Learning/S55_L397/TensorFlow_Audiobooks_Outlining_the_model_with_comments.ipynb to zip
+2025-04-13 14:46:13,242 - INFO - Added Part_7_Deep_Learning/S55_L397/.ipynb_checkpoints/TensorFlow_Audiobooks_Outlining_the_model-checkpoint.ipynb to zip
+2025-04-13 14:46:13,351 - INFO - Added Part_7_Deep_Learning/S55_L397/.ipynb_checkpoints/TensorFlow_Audiobooks_Outlining_the_model_with_comments-checkpoint.ipynb to zip
+2025-04-13 14:46:13,560 - INFO - Added Part_7_Deep_Learning/S55_L398/TensorFlow_Audiobooks_optimizing_the_algorithm.ipynb to zip
+2025-04-13 14:46:13,653 - INFO - Added Part_7_Deep_Learning/S55_L398/TensorFlow_Audiobooks_optimizing_the_algorithm_with_comments.ipynb to zip
+2025-04-13 14:46:13,767 - INFO - Added Part_7_Deep_Learning/S55_L398/.ipynb_checkpoints/TensorFlow_Audiobooks_optimizing_the_algorithm-checkpoint.ipynb to zip
+2025-04-13 14:46:13,868 - INFO - Added Part_7_Deep_Learning/S55_L398/.ipynb_checkpoints/TensorFlow_Audiobooks_optimizing_the_algorithm_with_comments-checkpoint.ipynb to zip
+2025-04-13 14:46:13,964 - INFO - Added Part_7_Deep_Learning/S55_L399/TensorFlow_Audiobooks_optimizing_the_algorithm.ipynb to zip
+2025-04-13 14:46:14,051 - INFO - Added Part_7_Deep_Learning/S55_L399/TensorFlow_Audiobooks_optimizing_the_algorithm_with_comments.ipynb to zip
+2025-04-13 14:46:14,171 - INFO - Added Part_7_Deep_Learning/S55_L400/Audiobooks_data.csv to zip
+2025-04-13 14:46:14,265 - INFO - Added Part_7_Deep_Learning/S55_L400/TensorFlow_Audiobooks_Machine_learning_Homework.ipynb to zip
+2025-04-13 14:46:14,358 - INFO - Added Part_7_Deep_Learning/S55_L400/TensorFlow_Audiobooks_Preprocessing_with_comments.ipynb to zip
+2025-04-13 14:46:14,450 - INFO - Added Part_7_Deep_Learning/S55_L400/.ipynb_checkpoints/TensorFlow_Audiobooks_Machine_learning_with_comments-checkpoint.ipynb to zip
+2025-04-13 14:46:14,546 - INFO - Added Part_7_Deep_Learning/S55_L402/Audiobooks_data.csv to zip
+2025-04-13 14:46:14,638 - INFO - Added Part_7_Deep_Learning/S55_L402/TensorFlow_Audiobooks_Machine_learning_Homework.ipynb to zip
+2025-04-13 14:46:14,722 - INFO - Added Part_7_Deep_Learning/S55_L402/TensorFlow_Audiobooks_Preprocessing_with_comments.ipynb to zip
+2025-04-13 14:46:14,874 - INFO - Added Part_7_Deep_Learning/S55_L402/.ipynb_checkpoints/TensorFlow_Audiobooks_Machine_learning_with_comments-checkpoint.ipynb to zip
+2025-04-13 14:46:15,054 - INFO - Added Part_8_Case_Study/S58_L411/Absenteeism-data.csv to zip
+2025-04-13 14:46:15,616 - INFO - Added Part_8_Case_Study/S58_L411/data-preprocessing-homework.pdf to zip
+2025-04-13 14:46:15,769 - INFO - Added Part_8_Case_Study/S58_L411/df-preprocessed.csv to zip
+2025-04-13 14:46:15,894 - INFO - Added Part_8_Case_Study/S58_L439/Absenteeism Exercise - Removing the Date Column - SOLUTION.ipynb to zip
+2025-04-13 14:46:15,995 - INFO - Added Part_8_Case_Study/S58_L442/Absenteeism Exercise - EXERCISES and SOLUTIONS.ipynb to zip
+2025-04-13 14:46:16,262 - INFO - Added Part_8_Case_Study/S58_L442/Absenteeism Exercise - Preprocessing.ipynb to zip
+2025-04-13 14:46:16,404 - INFO - Added Part_8_Case_Study/S59_L443/Absenteeism-preprocessed.csv to zip
+2025-04-13 14:46:16,530 - INFO - Added Part_8_Case_Study/S59_L452/Absenteeism Exercise - Logistic Regression_prior to custom_scaler.ipynb to zip
+2025-04-13 14:46:16,628 - INFO - Added Part_8_Case_Study/S59_L454/Absenteeism Exercise - Logistic Regression_prior_to_backward_elimination.ipynb to zip
+2025-04-13 14:46:16,712 - INFO - Added Part_8_Case_Study/S59_L458/Absenteeism Exercise - Logistic Regression.ipynb to zip
+2025-04-13 14:46:16,794 - INFO - Added Part_8_Case_Study/S59_L458/Absenteeism Exercise - Logistic Regression_with_comments.ipynb to zip
+2025-04-13 14:46:16,912 - INFO - Added Part_8_Case_Study/S60_L460/Absenteeism Exercise - Integration.ipynb to zip
+2025-04-13 14:46:17,040 - INFO - Added Part_8_Case_Study/S60_L460/absenteeism_module.py to zip
+2025-04-13 14:46:17,189 - INFO - Added Part_8_Case_Study/S60_L460/Absenteeism_new_data.csv to zip
+2025-04-13 14:46:17,266 - INFO - Added Part_8_Case_Study/S60_L460/model to zip
+2025-04-13 14:46:17,360 - INFO - Added Part_8_Case_Study/S60_L460/scaler to zip
+2025-04-13 14:46:17,435 - INFO - Added Part_8_Case_Study/S60_L463/Absenteeism Exercise - Deploying the 'absenteeism_module'.ipynb to zip
+2025-04-13 14:46:17,515 - INFO - Added Part_8_Case_Study/S60_L464/Absenteeism Exercise - Deploying the 'absenteeism_module'.ipynb to zip
+2025-04-13 14:46:17,757 - INFO - Added Part_8_Case_Study/S60_L464/Absenteeism_predictions.csv to zip
+2025-04-13 14:46:17,896 - INFO - Added Part_9_Appendix/Additional-Python-Tools-Exercises.ipynb to zip
+2025-04-13 14:46:17,991 - INFO - Added Part_9_Appendix/Additional-Python-Tools-Lectures.ipynb to zip
+2025-04-13 14:46:18,093 - INFO - Added Part_9_Appendix/Additional-Python-Tools-Solutions.ipynb to zip
+2025-04-13 14:46:18,107 - INFO - Successfully created zip file: C:\Users\nsika\AppData\Local\Temp\tmptdo56_lc\Data_science_course.zip
+2025-04-13 14:46:18,107 - INFO - Starting integrity verification
+2025-04-13 14:47:27,893 - INFO - Integrity verification successful
